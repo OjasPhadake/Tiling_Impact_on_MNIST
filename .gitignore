@@ -1,0 +1,11 @@
+data/
+results/
+
+*.zip
+*.tar
+*.tar.gz
+*.h5
+*.ckpt
+*.pth
+
+
